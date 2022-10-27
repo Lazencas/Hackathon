@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item
+        android:id="@+id/bottomItemHome"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"
+        android:title="Home"/>
+    <item
+        android:id="@+id/bottomItemSearch"
+        android:enabled="true"
+        android:icon="@drawable/ic_search"
+        android:title="Search"/>
+
+    <item
+        android:id="@+id/bottomItemAdd"
+        android:enabled="true"
+        android:icon="@drawable/ic_add"
+        android:title="Add"/>
+
+    <item
+        android:id="@+id/bottomItemLike"
+        android:enabled="true"
+        android:icon="@drawable/ic_like"
+        android:title="Like"/>
+    <item
+        android:id="@+id/bottomItemMyAccount"
+        android:enabled="true"
+        android:icon="@drawable/ic_account"
+        android:title="Profile"/>
+
+</menu>
